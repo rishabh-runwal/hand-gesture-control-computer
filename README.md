@@ -19,7 +19,7 @@ Gesture control is based on how the ultrasonic sensor will assess the location o
 # Schematic Diagram
 ![](arduino-schematic.png)
 # Setup
- ![](ardunosetuponlapto.jpeg)
+ ![](Cropped_Game_Jump.jpg)
 # References
 1. Kaoru Yamagishi, Lie Jing and Zixue Cheng, system for controlling personal computers
 by hand gestures using a7 wireless sensor device published I IEEE.

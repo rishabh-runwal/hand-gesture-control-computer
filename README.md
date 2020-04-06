@@ -1,4 +1,4 @@
-# hand-gesture-control-computer
+# Gesture control of computer features
 A project to control computer features using hand gestures.
 # OVERVIEW
 Using Hand gestures for controlling laptop features is a creative and innovative strategy of communication between users and devices.
